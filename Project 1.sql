@@ -1,3 +1,5 @@
+/* General queries to understand all available to see information */
+
 select * from credit_card_transcations
 
 select MIN(transaction_date) , MAX (transaction_date) from credit_card_transcations
