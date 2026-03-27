@@ -8,7 +8,7 @@
 4. Cast 
 5. Window functions
 6. case when
-*/
+*/ 
 
 -- 1- write a query to print top 5 cities with highest spends and their percentage contribution of total credit card spends 
 
